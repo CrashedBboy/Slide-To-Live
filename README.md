@@ -1,2 +1,2 @@
 # Slide-To-Live
-Final Project write in java, the idea is origin from mobile game "Tilt to live"
+A project written in java(Using Eclipse IDE), the idea is origin from mobile game "Tilt to live"
