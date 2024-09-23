@@ -1,5 +1,6 @@
 # Slide-To-Live
-A project written in java(Using Eclipse IDE), the idea is origin from mobile game "Tilt to live"
+A desktop game written in Java (Using Eclipse IDE), the idea originates from the mobile game "Tilt to Live". 
+Players avoid enemies while trying to survive as long as possible and using power-ups to destroy enemies.
 
 ## Gameplay Screenshots
 
